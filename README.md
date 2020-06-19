@@ -1,5 +1,5 @@
 # GroceryList
-A list of grocery items that keeps user on track and streamlines shopping
+A list of grocery items that helps users track all the things they have to buy.
 
 # What I learned
 - List data structures
